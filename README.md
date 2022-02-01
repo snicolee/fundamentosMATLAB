@@ -13,6 +13,8 @@ La mayoría de archivos son **.mlx**, es decir, fueron realizados en el Live Edi
   * Los live scripts fueron implementados dentro de MATLAB desde la versión 2016a. Por ende, versiones anteriones no disponen de ellos. Entonces no será posible utilizar los archivos de este repositorio.
 
 ## Contenido
+1. Introducción
+
 2. Ambiente MATLAB
     - Resolución de problemas con MATLAB
     - Guardar el trabajo

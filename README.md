@@ -4,8 +4,7 @@
 
 - Capítulo: **c**
 - Teoría/apuntes de subcapítulo: **sc**
-- Ejercicios de práctica de subcapítulo: **ep**
-- Problemas de cada capítulo: **p**
+- Ejercicios de práctica de subcapítulo: **p**
 
 ## Observación
 
